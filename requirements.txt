@@ -1,0 +1,11 @@
+# OG Arcade — requirements.txt
+# No third-party dependencies needed!
+# Uses Python standard library only:
+#   - http.server  (built-in HTTP server)
+#   - json         (built-in JSON encoder)
+#
+# Minimum Python version: 3.6+
+#
+# To run:
+#   python arcade.py
+#   then open → http://localhost:5000
